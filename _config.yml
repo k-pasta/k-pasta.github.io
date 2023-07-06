@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Planise
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A QSReach Journal for the Subversion of Clustereotytping <br><br>
+
+  "Welcome, comrades of cosmic whimsy! Step into the Quirky Cosmos Chronicle, a mystical corner of QSReach where rebellion reigns and conformity quivers. Here, amidst the vast unknown, we, the audacious trio of rogue thinkers—a sociologist by day, a chemist by night, and an artful cosmic weaver—extend a sly invitation. In this enigmatic abode, cryptic whispers intertwine with wry tales, as we defy convention and mock the unyielding status quo. Our cosmic voyage unearths the flavors of bygone civilizations, concocting rebellious recipes that defy gravity's limits. Our artistry paints celestial vistas, where ordinary perception surrenders to whimsical chaos. <br><br> Our sanctuary is not for the faint-hearted or the seekers of mundane refuge. No, it is a sanctuary for dreamers, rebels, and those who dare question reality's tapestry. Our mission: to shatter isolation's illusion, to ignite embers of multicultural unity, amidst the forgotten corners of the universe's cosmos. Secure your metaphysical seatbelts, fellow wanderers, and prepare for a delicate dance on the edge of cosmic discord. Amidst the chaos, we unveil fragments of truth, whispered in the shadows of distant stars. Together, we embrace the human spirit, defiant and resolute, as the universe tries to confine us. <br><br> Behold our cryptic chronicles, whimsical escapades, and musings of thought-provoking enigma. Welcome to the Quirky Cosmos Chronicle, where cryptic pages unravel the universe's hidden marvels." <br><br>Until the galaxies align, <br>Jo. Ir. Lu.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 # theme: minima
@@ -45,13 +45,13 @@ theme_config:
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
-  show_old_projects: true # show old projects as cards, add in _data/home.yml
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Our Handles
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects

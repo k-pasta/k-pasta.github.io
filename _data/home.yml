@@ -5,8 +5,11 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: rss feed
+    url: feed.xml 
+
+  - title: latest article
+    url: cave_expedition
 
 project_entries:
   - title: Iris
@@ -51,17 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: about
+    url: about
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: blog
+    url: blog
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: rss feed
+    url: feed.xml 
 
-  - title: feed
-    url: feed.xml
+  - title: latest article
+    url: cave_expedition
 
 misc_entries:
   - title: this is an example vertical list

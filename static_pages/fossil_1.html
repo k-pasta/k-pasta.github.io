@@ -1,0 +1,41 @@
+---
+layout: ar
+title:  "Fossil #1"
+date:   2023-07-06 12:14:21 +0300
+categories: ar
+permalink: "/fossil_1/"
+---
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fossil #1 - AR</title>
+        <script src="/assets/js/aframe-master.min.js"></script>
+        <script src="/assets/js/aframe-ar.js"></script>
+</head>
+
+  <body style="margin: 0px; overflow: hidden">
+
+    <a-scene embedded arjs>
+      <a-assets>
+        <a-asset-item id="fossil_1_obj" src="/assets/var/fossil_1.obj"></a-asset-item>
+        <img id="fossil_1_normal" src="/assets/var/fossils1_normal.png">
+        <img id="fossil_1" src="/assets/var/fossils1.png">
+      </a-assets>
+
+      <a-marker preset="hiro">
+        <a-entity
+        rotation="0 0 0"
+        animation="property: rotation; to: 0 360 0; loop: true; dur: 35000; easing:linear">
+          <a-entity
+            obj-model="obj: #fossil_1_obj;"
+            material="src: #fossil_1; normalMap: #fossil_1_normal; roughness: 1; metalness: 0"
+            position="0 0.5 0"
+            rotation="0 0 0"
+            animation="property: rotation; to: 360 0 0; loop: true; dur: 20000; easing:linear"
+          ></a-entity>
+        </a-entity>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>

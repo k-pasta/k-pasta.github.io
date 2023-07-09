@@ -1,0 +1,93 @@
+---
+layout: ar
+title:  "Fossils"
+date:   2023-07-06 12:14:21 +0300
+categories: vr
+permalink: "/fossils_vr/"
+---
+
+<!DOCTYPE html>
+<html>
+    <head>  <script src="/assets/js/aframe-master.min.js"></script>
+    </head>
+
+  <!-- we import arjs version without NFT but with marker + location based support -->
+  <!-- <script src="aframe-ar.js"></script> -->
+  <body style="margin: 0px; overflow: hidden">
+    <a-scene shadow="type: pcfsoft">
+      <a-assets>
+        <a-asset-item id="spaceship" src="/assets/var/spaceship.glb"></a-asset-item>
+        <a-asset-item id="fossil_1_obj" src="/assets/var/fossil_1.obj"></a-asset-item>
+        <img id="fossil_1_normal" src="/assets/var/fossils1_normal.png">
+        <img id="fossil_1" src="/assets/var/fossils1.png">
+        <a-asset-item id="fossil_2_obj" src="/assets/var/fossil_2.obj"></a-asset-item>
+        <img id="fossil_2_normal" src="/assets/var/fossils2_normal.png">
+        <img id="fossil_2" src="/assets/var/fossils2.png">
+        <img id="hdri" src="/assets/var/hdr_2.png">
+      </a-assets>
+      
+      <a-sky src="#hdri"></a-sky>
+      <a-entity
+      rotation="0 0 0"
+      animation="property: rotation; to: 0 0 360; loop: true; dur: 90000; easing:linear;">
+
+
+
+
+      <!-- camera rig -->
+      <a-entity rotation="0 0 -5"
+      animation="property: rotation; to: 0 0 5; loop: true; dur: 8000; easing:easeInOutSine; 	dir:alternate;">
+      <!-- camera -->
+      <a-entity camera look-controls position="0 1 -1"></a-entity> 
+    </a-entity>    
+    
+    <!-- fossils -->
+      <a-entity
+      position="0, 0, -5"   
+      >
+          <a-entity
+            obj-model="obj: #fossil_1_obj;"
+            shadow="cast: true;"
+            material="src: #fossil_1; normalMap: #fossil_1_normal; roughness: 1; metalness: 0"
+            position="-1.8 0 1.5"
+            scale="1.2 1.2 1.2"
+            rotation="0 0 0"
+            animation="property: rotation; to: 360 0 0; loop: true; dur: 20000; easing:linear"
+          ></a-entity>
+         
+          <a-entity
+            obj-model="obj: #fossil_2_obj;"
+            shadow="cast: true;"
+            material="src: #fossil_2; normalMap: #fossil_2_normal; roughness: 1; metalness: 0"
+            position="1.7 0 1"
+            scale="1.2 1.2 1.2"
+            rotation="0 0 -45"
+            animation="property: rotation; to: -360 0 -45; loop: true; dur: 20000; easing:linear"
+          ></a-entity>
+
+        </a-entity>
+
+        <!-- spaceship -->
+        <a-entity gltf-model="#spaceship"
+        rotation="0 180 0"
+        shadow="cast: true; receive: true"
+        ></a-entity>
+        <!-- light -->
+      <a-entity    position="1 2.5 -3"
+      rotation="-50 0 0 ">
+        <a-entity light="type:spot; color: #ed875f; intensity: 1.5; castShadow: true;" 
+        ></a-entity> 
+      <a-entity    position="-1 2.5 -3"
+      rotation="-50 0 0 ">
+        <a-entity light="type:spot; color: #e7586f; intensity: 2; castShadow: true;" 
+        ></a-entity> 
+      </a-entity>
+      <a-entity light="type: ambient; color: #aa9ede; intensity: 1.5;"></a-entity>
+      
+    </a-entity>
+
+      <!-- <a-entity camera></a-entity> -->
+    </a-scene>
+
+  </body>
+</html>

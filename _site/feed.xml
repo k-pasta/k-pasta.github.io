@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-07T01:34:23+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Planise</title><subtitle>A QSReach Journal for the Subversion of Clustereotytping &lt;br&gt;&lt;br&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-09T11:50:08+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Planise</title><subtitle>A QSReach Journal for the Subversion of Clustereotytping &lt;br&gt;&lt;br&gt;
 &quot;Welcome, comrades of cosmic whimsy! Step into the Quirky Cosmos Chronicle, a mystical corner of QSReach where rebellion reigns and conformity quivers. Here, amidst the vast unknown, we, the audacious trio of rogue thinkers—a sociologist by day, a chemist by night, and an artful cosmic weaver—extend a sly invitation. In this enigmatic abode, cryptic whispers intertwine with wry tales, as we defy convention and mock the unyielding status quo. Our cosmic voyage unearths the flavors of bygone civilizations, concocting rebellious recipes that defy gravity&apos;s limits. Our artistry paints celestial vistas, where ordinary perception surrenders to whimsical chaos. &lt;br&gt;&lt;br&gt; Our sanctuary is not for the faint-hearted or the seekers of mundane refuge. No, it is a sanctuary for dreamers, rebels, and those who dare question reality&apos;s tapestry. Our mission: to shatter isolation&apos;s illusion, to ignite embers of multicultural unity, amidst the forgotten corners of the universe&apos;s cosmos. Secure your metaphysical seatbelts, fellow wanderers, and prepare for a delicate dance on the edge of cosmic discord. Amidst the chaos, we unveil fragments of truth, whispered in the shadows of distant stars. Together, we embrace the human spirit, defiant and resolute, as the universe tries to confine us. &lt;br&gt;&lt;br&gt; Behold our cryptic chronicles, whimsical escapades, and musings of thought-provoking enigma. Welcome to the Quirky Cosmos Chronicle, where cryptic pages unravel the universe&apos;s hidden marvels.&quot; &lt;br&gt;&lt;br&gt;Until the galaxies align, &lt;br&gt;Jo. Ir. Lu.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/iris2/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/iris2/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
@@ -15,4 +15,184 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Welcome Eos</title><link href="http://localhost:4000/2023/07/06/welcome-eos.html" rel="alternate" type="text/html" title="Welcome Eos" /><published>2023-07-06T00:00:00+03:00</published><updated>2023-07-06T00:00:00+03:00</updated><id>http://localhost:4000/2023/07/06/welcome-eos</id><content type="html" xml:base="http://localhost:4000/2023/07/06/welcome-eos.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">The Wǎlā spice pt2</title><link href="http://localhost:4000/dumplings_2/" rel="alternate" type="text/html" title="The Wǎlā spice pt2" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/the_wala_spice_02</id><content type="html" xml:base="http://localhost:4000/dumplings_2/">&lt;p&gt;&lt;img src=&quot;/assets/images/spice.png&quot; alt=&quot;spice&quot; /&gt;
+&lt;em&gt;A local brand of dry Wǎlā&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In my quest across the vast expanse of Planet EOS-641, I confronted the absence of Rèndú Wǎlā spice. Fearlessly embracing the challenge, I harnessed the essence of common lemongrass and curated a homemade substitution paste. Infused with elements inspired by the intertwining worlds of French and Chinese cuisine, join me on a flavorful expedition where adaptability and creativity reign supreme.&lt;/p&gt;
+
+&lt;h3 id=&quot;rèndú-wǎlā-spice-substitution-paste&quot;&gt;Rèndú Wǎlā Spice Substitution Paste&lt;/h3&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2 stalks lemongrass, white parts only, finely chopped
+2 cloves garlic, minced
+1 teaspoon ground coriander
+1 teaspoon ground cumin
+1/2 teaspoon ground white pepper
+1/2 teaspoon ground cinnamon
+1/2 teaspoon paprika
+2 tablespoons vegetable oil
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions:&lt;/h3&gt;
+
+&lt;p&gt;In a mortar and pestle or a food processor, combine the finely chopped lemongrass, minced garlic, ground coriander, ground cumin, ground white pepper, ground cinnamon, and paprika.&lt;/p&gt;
+
+&lt;p&gt;Grind or process the ingredients together until a smooth paste forms.&lt;/p&gt;
+
+&lt;p&gt;Heat the vegetable oil in a small skillet or saucepan over medium heat.&lt;/p&gt;
+
+&lt;p&gt;Add the spice paste to the hot oil and cook for about 2-3 minutes, stirring continuously, until fragrant and the flavors are well combined.&lt;/p&gt;
+
+&lt;p&gt;Remove the spice paste from the heat and let it cool.&lt;/p&gt;
+
+&lt;p&gt;Transfer the Rèndú Wǎlā spice substitution paste to a small jar or airtight container.&lt;/p&gt;
+
+&lt;p&gt;Store in the refrigerator for up to a week, allowing the flavors to meld together and intensify.&lt;/p&gt;
+
+&lt;p&gt;This homemade spice paste can be used as a substitute for Rèndú Wǎlā spice in various recipes. It incorporates the aromatic qualities of lemongrass, along with the warm and earthy flavors of coriander, cumin, white pepper, cinnamon, and paprika. The paste can add depth and complexity to French and Chinese dishes alike. Enjoy experimenting with this fusion of flavors in your culinary creations!&lt;/p&gt;</content><author><name>Iris</name></author><category term="food" /><summary type="html">A local brand of dry Wǎlā</summary></entry><entry><title type="html">The Wǎlā spice</title><link href="http://localhost:4000/dumplings/" rel="alternate" type="text/html" title="The Wǎlā spice" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/the_wala_spice</id><content type="html" xml:base="http://localhost:4000/dumplings/">&lt;p&gt;Undeterred by the scarcity of fusion recipes on Planet EOS-641, I ventured through the vibrant streets of Rèndú. Serendipity struck as a spirited street vendor eagerly shared her expertise, unraveling the secrets behind crispy goat cheese wontons.&lt;/p&gt;
+
+&lt;h3 id=&quot;crispy-goat-cheese-wontons-with-honey-soy-drizzle-infused-with-rèndú-wǎlā-spice&quot;&gt;Crispy Goat Cheese Wontons with Honey-Soy Drizzle, Infused with Rèndú Wǎlā Spice&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dumpl1.png&quot; alt=&quot;dumpling&quot; /&gt;
+&lt;em&gt;Raw goat cheese wontons as sold in the streets of downtown Rèndú. Sold along with untreated Wǎlā leaves&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;8 ounces fresh chevre (goat cheese)
+24 wonton wrappers
+Vegetable oil, for frying
+1/4 cup honey
+2 tablespoons soy sauce
+1 tablespoon rice vinegar
+1 teaspoon grated fresh ginger
+2 green onions, thinly sliced
+Sesame seeds, for garnish
+Fresh cilantro leaves, for garnish
+1 teaspoon Wǎlā spice (瓦拉)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;instructions&quot;&gt;Instructions:&lt;/h3&gt;
+
+&lt;p&gt;In a small bowl, whisk together the honey, soy sauce, rice vinegar, grated ginger, and the special Wǎlā spice (瓦拉) obtained from the dry-pickled lemongrass of a unique variety grown exclusively in the outskirts of Rèndú, the second largest city in the planet EOS-641. Set aside for later use as the drizzle.&lt;/p&gt;
+
+&lt;p&gt;Take the goat cheese and divide it into 24 equal portions. Roll each portion into a small ball.&lt;/p&gt;
+
+&lt;p&gt;Place a goat cheese ball in the center of each wonton wrapper. Brush the edges of the wrapper with water and fold it over to create a triangle. Press the edges to seal tightly.&lt;/p&gt;
+
+&lt;p&gt;In a large skillet or pot, heat vegetable oil over medium-high heat until it reaches about 350°F (175°C).&lt;/p&gt;
+
+&lt;p&gt;Carefully add the wontons in batches, frying for about 2-3 minutes on each side, or until they turn golden brown and crispy. Remove with a slotted spoon and transfer to a paper towel-lined plate to drain excess oil.&lt;/p&gt;
+
+&lt;p&gt;Once all the wontons are fried, place them on a serving platter. Drizzle the honey-soy sauce mixture infused with the unique Rèndú Wǎlā spice (瓦拉) over the top.&lt;/p&gt;
+
+&lt;p&gt;Garnish with sliced green onions, sesame seeds, and fresh cilantro leaves.&lt;/p&gt;
+
+&lt;p&gt;Serve immediately and savor the delightful combination of French chevre cheese, Chinese flavors, and the aromatic essence of the Rèndú Wǎlā spice (瓦拉) from the distant planet EOS-641.&lt;/p&gt;
+
+&lt;p&gt;Enjoy the fusion of flavors and the intriguing touch of the Rèndú Wǎlā spice, which adds a unique and interstellar twist to this delicious recipe! Bon appétit!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dumpl4.png&quot; alt=&quot;dumpling&quot; /&gt;
+&lt;em&gt;Wonton dough sold in the same market&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In my quest across the vast expanse of Planet EOS-641, I confronted the absence of Rèndú Wǎlā spice. Fearlessly embracing the challenge, I harnessed the essence of common lemongrass and curated a homemade substitution paste. Infused with elements inspired by the intertwining worlds of French and Chinese cuisine, join me on a flavorful expedition where adaptability and creativity reign supreme.&lt;/p&gt;
+
+&lt;p&gt;Continued in the next post…&lt;/p&gt;</content><author><name>Iris</name></author><category term="food" /><summary type="html">Undeterred by the scarcity of fusion recipes on Planet EOS-641, I ventured through the vibrant streets of Rèndú. Serendipity struck as a spirited street vendor eagerly shared her expertise, unraveling the secrets behind crispy goat cheese wontons.</summary></entry><entry><title type="html">Some charcoal sketches…</title><link href="http://localhost:4000/eos_games/" rel="alternate" type="text/html" title="Some charcoal sketches…" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/games</id><content type="html" xml:base="http://localhost:4000/eos_games/">&lt;h3 id=&quot;--some-thoughts-on-eos-641-game-culture&quot;&gt;… &amp;amp; some thoughts on EOS-641 game culture&lt;/h3&gt;
+
+&lt;p&gt;In the enchanting city of Rèndú, nestled amidst serene landscapes, I found myself immersed in the harmonious fusion of Tai Chi and Pétanque. Guided by my gracious host family, I discovered the striking commonalities between these seemingly distinct practices. Both Tai Chi and Pétanque demand precise movements, requiring a delicate balance of strength and finesse. The gentle, flowing motions of Tai Chi mirror the smooth precision employed in Pétanque’s ball-throwing technique. Furthermore, the underlying philosophies of both disciplines emphasize mindfulness, inner tranquility, and the cultivation of harmony between body and mind. In Rèndú, this unique blend of Tai Chi and Pétanque captivates the hearts of locals and travelers alike, harmonizing physical prowess with spiritual serenity in a mesmerizing dance of grace and strategy.&lt;/p&gt;
+
+&lt;p&gt;Below are some charcoal sketches I made, capturing the essence of the local families’ children as they eagerly embrace this enriching cultural amalgamation. Their vibrant energy and youthful enthusiasm intertwine with the ancient wisdom inherited from generations past, creating a captivating tapestry of tradition and innovation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/charc2.png&quot; alt=&quot;scenery&quot; /&gt;
+&lt;em&gt;My favorite.&lt;/em&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/images/charc3.png&quot; alt=&quot;scenery&quot; /&gt;
+&lt;em&gt;And here, one I drafted at the local park, near the Xīnfú square.&lt;/em&gt;&lt;/p&gt;</content><author><name>Luna</name></author><category term="sociology" /><category term="art" /><summary type="html">… &amp;amp; some thoughts on EOS-641 game culture</summary></entry><entry><title type="html">EOS-641, a geomorphology overview</title><link href="http://localhost:4000/eos_geology/" rel="alternate" type="text/html" title="EOS-641, a geomorphology overview" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/geology_studies</id><content type="html" xml:base="http://localhost:4000/eos_geology/">&lt;h3 id=&quot;abstract&quot;&gt;Abstract:&lt;/h3&gt;
+&lt;p&gt;This study presents a comprehensive geological and climatic analysis of a semi-arid region characterized by dry conditions, favorable year-round temperatures, and intermittent strong winds. The aim is to investigate the geological processes and environmental factors that contribute to the unique characteristics of this land. Field observations, geological mapping, and climatic data analysis were conducted to better understand the landforms, rock formations, and climatic patterns present. The findings highlight the interplay between geologic processes and climatic conditions in shaping the landscape and fostering a distinctive environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/land.png&quot; alt=&quot;scenery&quot; /&gt;
+&lt;em&gt;View from the wastelands, +32E , +45N of Rèndú&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+&lt;p&gt;The study area, located in a semi-arid region, exhibits prominent aridity with sporadic rainfall throughout the year. However, despite the dry conditions, the region benefits from consistently moderate temperatures, making it an intriguing site for geological investigations. The primary focus is to examine the landforms, rock types, and climatic attributes that contribute to the unique characteristics observed in this area.&lt;/p&gt;
+
+&lt;h3 id=&quot;geological-framework&quot;&gt;Geological Framework:&lt;/h3&gt;
+&lt;p&gt;The region primarily comprises sedimentary rock formations, predominantly sandstone, shale, and limestone. These rock types reflect the deposition and subsequent lithification of sediment in an ancient marine environment. The layers of sedimentary rocks exhibit varying degrees of hardness and resistance to erosion, resulting in distinctive landforms such as mesas, canyons, and plateaus.&lt;/p&gt;
+
+&lt;h3 id=&quot;landforms-and-erosional-features&quot;&gt;Landforms and Erosional Features:&lt;/h3&gt;
+&lt;p&gt;Erosional processes have played a significant role in shaping the landforms of the study area. Wind erosion, amplified by occasional strong winds, has contributed to the development of vast sand dunes and sandstone hoodoos. These striking features are prominent throughout the landscape and serve as a testament to the powerful influence of wind-driven erosion.&lt;/p&gt;
+
+&lt;h3 id=&quot;climate-and-weather-patterns&quot;&gt;Climate and Weather Patterns:&lt;/h3&gt;
+&lt;p&gt;The region experiences a semi-arid climate characterized by low annual precipitation, typically concentrated in sporadic and intense rain events. The temperatures remain moderate throughout the year, with warm summers and mild winters. However, the presence of occasional strong winds, exacerbated by the absence of significant vegetative cover, can result in significant wind-chill effects, influencing the perceived temperature and impacting local ecosystems.&lt;/p&gt;
+
+&lt;h3 id=&quot;hydrological-factors&quot;&gt;Hydrological Factors:&lt;/h3&gt;
+&lt;p&gt;The arid conditions of the region result in limited surface water bodies, with intermittent streams and ephemeral rivers. Groundwater plays a vital role in sustaining vegetation and providing essential water sources for wildlife. Localized aquifers within the sedimentary formations act as storage reservoirs, contributing to the resilience of the ecosystems in the face of the prevailing aridity.&lt;/p&gt;
+
+&lt;h3 id=&quot;ecological-adaptations&quot;&gt;Ecological Adaptations:&lt;/h3&gt;
+&lt;p&gt;The vegetation in this region has adapted to the arid environment by developing specialized physiological and anatomical features. Xerophytic plants with deep root systems, waxy or hairy leaf surfaces, and water-storing adaptations are common. Animal life demonstrates adaptations for water conservation and thermal regulation.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h3&gt;
+&lt;p&gt;The geological and climatic analysis of the semi-arid region reveals the interdependent relationship between landforms, rock formations, and climatic patterns. The dry conditions, favorable temperatures, and intermittent strong winds contribute to the unique geological features and ecological adaptations observed in the area. This study provides valuable insights into the dynamic interplay between geologic processes and climatic factors, underscoring the need for further research to fully comprehend the complex dynamics of this distinct landscape.&lt;/p&gt;</content><author><name>Luna</name></author><category term="land" /><category term="climate" /><summary type="html">Abstract: This study presents a comprehensive geological and climatic analysis of a semi-arid region characterized by dry conditions, favorable year-round temperatures, and intermittent strong winds. The aim is to investigate the geological processes and environmental factors that contribute to the unique characteristics of this land. Field observations, geological mapping, and climatic data analysis were conducted to better understand the landforms, rock formations, and climatic patterns present. The findings highlight the interplay between geologic processes and climatic conditions in shaping the landscape and fostering a distinctive environment.</summary></entry><entry><title type="html">Thoughts &amp;amp; convos: EOS-641</title><link href="http://localhost:4000/eos_chop_suey/" rel="alternate" type="text/html" title="Thoughts &amp;amp; convos: EOS-641" /><published>2023-07-06T12:14:21+03:00</published><updated>2023-07-06T12:14:21+03:00</updated><id>http://localhost:4000/sociology</id><content type="html" xml:base="http://localhost:4000/eos_chop_suey/">&lt;p&gt;&lt;img src=&quot;/assets/images/notebook.png&quot; alt=&quot;notebook&quot; /&gt;
+&lt;em&gt;My notebook’s getting old&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;In the dusty realm of EOS-641,
+A quirky chop suey vendor,
+Blends Chinese and French in haiku hue.
+
+With shallots and oats, his canvas wide,
+Goats provide the nourishment,
+For the bellies of those who reside.
+
+Amidst the dry and arid air,
+A language thrives, unique and rare,
+Mandarin meets French, a linguistic affair.
+
+Quirky words dance in their discourse,
+Tongues twist and twirl, a linguistic force,
+In cafes, bistros, and dusty street course.
+
+Mandarin accents, sprinkled with &quot;s&apos;il vous plaît,&quot;
+Each dish a symphony, a flavorful ballet,
+In this humble world where cultures play.
+
+The vendor&apos;s life, a spirited affair,
+A fusion of flavors, a daily affair,
+With culinary magic, he treads with care.
+
+Through the wind that gusts, a challenge to bear,
+He perseveres, his chop suey stall to share,
+Filling empty stomachs with love and flair.
+
+In the land of EOS-641, a vibrant tapestry unfolds,
+Where chop suey thrives and stories are told,
+A testament to human resilience, strong and bold.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/market.png&quot; alt=&quot;market&quot; /&gt;
+&lt;em&gt;The market where I met Pierre&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the following transcription, I present a candid conversation between Pierre, the chop suey vendor, and myself, Jove, reflecting on the hardships of living on planet EOS-641. Our dialogue captures the blend of sarcasm, cynicism, and camaraderie that has grown between us as we navigate the challenges of an increasingly segregated and absurd universe.&lt;/p&gt;
+
+&lt;p&gt;Transcription:&lt;/p&gt;
+
+&lt;p&gt;Jove: Well, well, Pierre! Another day in paradise, huh? How’s the glamorous life of a chop suey vendor treating you?&lt;/p&gt;
+
+&lt;p&gt;Pierre: Oh, you know, Jove. It’s all rainbows and unicorns. Just trying to survive in this concrete jungle while the rent keeps climbing higher than our shuttle’s fuel costs. It’s a laugh riot, really.&lt;/p&gt;
+
+&lt;p&gt;J: I can feel the joy radiating from you, Pierre. The thrill of living paycheck to paycheck, wondering if we’ll ever get a chance to escape this planetary rat race. Aren’t you glad we signed up for this adventure?&lt;/p&gt;
+
+&lt;p&gt;P: Ecstatic doesn’t even begin to cover it, Jove. I mean, who needs interplanetary communication when we can’t even afford a decent meal? Let’s cherish the fact that we can share our tales of financial woes instead. It’s a bonding experience, really.&lt;/p&gt;
+
+&lt;p&gt;J: Absolutely, Pierre. Who needs friends on other planets when we can commiserate about the absurdity of our lives right here? They say misery loves company, and boy, do we have a front-row seat to that cosmic show.&lt;/p&gt;
+
+&lt;p&gt;P: You got it, Jove. We’re the lucky ones, witnessing the slow descent into intergalactic chaos while trying to whip up a mean chop suey. It’s like a cosmic comedy sketch, but with less laughter and more “why did we ever leave Earth?”&lt;/p&gt;
+
+&lt;p&gt;J: Ah, the sweet taste of regret. It pairs perfectly with our overpriced noodles and the realization that we’ve become illegal broadcasters in a segregated universe. But hey, at least we’ve got a blog, right? Let’s document the madness and share it with the universe. Maybe they’ll send us a pity donation.&lt;/p&gt;
+
+&lt;p&gt;P: I like your optimism, Jove. Maybe one day, our blog will be famous across the universe for its sarcasm and culinary insights. We’ll be known as the pioneers of interplanetary snark. It’s a legacy worth pursuing, don’t you think?&lt;/p&gt;
+
+&lt;p&gt;[…]&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/city1.png&quot; alt=&quot;police_department&quot; /&gt;
+&lt;em&gt;Pierre later sent me this photo from the other side of the city; It’s the new administration department&lt;/em&gt;&lt;/p&gt;</content><author><name>Jove</name></author><category term="sociology" /><category term="poetry" /><summary type="html">My notebook’s getting old</summary></entry><entry><title type="html">Test</title><link href="http://localhost:4000/2023/07/06/test.html" rel="alternate" type="text/html" title="Test" /><published>2023-07-06T00:00:00+03:00</published><updated>2023-07-06T00:00:00+03:00</updated><id>http://localhost:4000/2023/07/06/test</id><content type="html" xml:base="http://localhost:4000/2023/07/06/test.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Welcome Eos</title><link href="http://localhost:4000/2023/07/06/welcome-eos.html" rel="alternate" type="text/html" title="Welcome Eos" /><published>2023-07-06T00:00:00+03:00</published><updated>2023-07-06T00:00:00+03:00</updated><id>http://localhost:4000/2023/07/06/welcome-eos</id><content type="html" xml:base="http://localhost:4000/2023/07/06/welcome-eos.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>

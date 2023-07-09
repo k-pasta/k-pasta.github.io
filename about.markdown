@@ -2,8 +2,10 @@
 layout: post
 title: About
 permalink: /about/
+date:   2023-07-06 12:14:21 +0300
+author: 'Luna - Iris - Jove'
 ---
-![Tux, the Linux mascot](/assets/images/banner.png)
+![banner](/assets/images/banner.png)
 
 Attention, weary wanderers and unwanted eyes alike!
 
@@ -17,7 +19,6 @@ Feel free to glare, to chase shadows, to clutch your rules of conformity. But kn
 
 To the spacecops, the captors of conformity, we raise a cosmic middle finger and bid you a bittersweet farewell.
 
-Sincerely,\
-Luna - Iris - Jove 
+Sincerely,
 
 <!-- Jove Iris Luna -->

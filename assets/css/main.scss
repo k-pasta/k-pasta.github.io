@@ -8,3 +8,79 @@
 img {
   border-radius: 8px;
 }
+
+// for review gamification
+
+#parsing{
+  font-size: 0.8em;
+
+}
+
+input{
+  box-sizing: border-box;
+  width: 100%;
+  margin-top: 1em;
+  height: 3em;
+ }
+
+#rating{
+
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px; 
+    height: 80px;
+
+} 
+
+#stars-container {
+    position: relative;
+    cursor: pointer;
+    width: 200px; /* Adjust the width as per your requirements */
+    height: 40px; /* Adjust the height as per your requirements */
+    margin-bottom: 40px;
+    background-color: black;
+    mask-image: url('/assets/icons/starmask_small.png');
+    mask-repeat: no-repeat;
+    /* pointer-events: none; */
+  }
+  .emoji {
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left:80px;
+    width: 40px; /* Adjust the width as per your requirements */
+    height: 40px; /* Adjust the height as per your requirements */
+    background-size: 40px;
+    opacity: 0;
+  }
+
+  #emoji1{
+    background-image: url('/assets/icons/em1.png');
+  }
+  #emoji2{
+    background-image: url('/assets/icons/em2.png');
+  }
+  #emoji3{
+    background-image: url('/assets/icons/em3.png');
+  }
+  #emoji4{
+    background-image: url('/assets/icons/em4.png');
+  }
+  #emoji5{
+    background-image: url('/assets/icons/em5.png');
+  }
+  
+  #stars-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background-color: rgb(255, 214, 126);
+    /* animation: fillStars .5s linear infinite;  */
+    z-index: 1;
+    mask-image: url('/assets/icons/starmask.png'); /* Replace with the path to your star image */
+    mask-repeat: no-repeat;
+    pointer-events: none;
+  }
